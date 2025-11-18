@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&pause=1000&color=00C0FF&width=435&lines=Hi+👋,+I`m+Darshit+Chovatiya;Full-Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&pause=1000&color=00C0FF&width=435&lines=Hi+👋,+I`m+Darshitt+Chovatiya;Full-Stack+Developer)](https://git.io/typing-svg)
 
 ###  MERN | Next.js | Real-time Apps 
 
