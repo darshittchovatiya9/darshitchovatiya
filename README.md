@@ -18,7 +18,7 @@
 ---
 
 ### 💼 Portfolio  
-🌐 [My Portfolio Website](https://darshitchovatiya.vercel.app)  
+🌐 [My Portfolio Website](https://darshit-chovatiya.vercel.app)  
 
 ---
 
